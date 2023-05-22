@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DownloadImage</string>
+    <string name="title">Dog\'s Breed list</string>
+    <string name="download_page_title">Selected Dog\'s Breed list</string>
+    <string name="continue_str">Continue</string>
+    <string name="download">Download</string>
+    <string name="download_started">Downloading started</string>
+</resources>
